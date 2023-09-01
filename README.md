@@ -56,6 +56,7 @@ plt.show(
 [ 5.2460815  12.09247649  1.82288401  7.52821317 10.95141066  9.81034483
   0.68181818  4.10501567  7.52821317 13.23354232]
 
+![ml graph](https://github.com/maha712/Find-the-best-fit-line-using-Least-Squares-Method/assets/121156360/8f2db298-6477-4718-bcaa-91e9a02d661e)
 
 
 
