@@ -47,8 +47,9 @@ plt.plot(X,Y_pred,color='yellow')
 plt.show(
 
 ## Output:
+![ml ex01](https://github.com/maha712/Find-the-best-fit-line-using-Least-Squares-Method/assets/121156360/04f6ed46-d6f9-453b-80f3-d33420f2a326)
 
-[ml graph](https://github.com/maha712/Find-the-best-fit-line-using-Least-Squares-Method/assets/121156360/eec0a9c4-4f23-4686-ad8e-bb4498969460)
+
 
 
 
